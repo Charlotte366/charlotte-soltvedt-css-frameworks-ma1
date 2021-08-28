@@ -5,7 +5,18 @@ body {
 .navbar-brand,
 h3 {
   font-family: "Open Sans", sans-serif;
-  font-size: 34px;
+  font-size: 36px;
+}
+
+.navbar {
+  background-color: var(--nav-colour) !important;
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 10px;
+}
+
+.navbar-light .navbar-nav,
+.nav-link {
+  font-size: large;
 }
 
 h3 {
