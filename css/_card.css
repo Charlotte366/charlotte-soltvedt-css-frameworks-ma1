@@ -7,7 +7,7 @@
 .card7,
 .card8 {
   background-color: var(--card1) !important;
-  border: solid var(--border-colour) !important;
+  border: 3px solid var(--border-colour) !important;
   padding: 60px;
   margin: 10px;
   border-radius: 15px;
@@ -16,9 +16,10 @@
 .card3,
 .card8 {
   background-color: var(--card3) !important;
-  border: solid var(--border-colour2);
+  border: 3px solid var(--border-colour2) !important;
 }
 
 .card6 {
   background-color: var(--card6) !important;
+  border: 3px solid var(--border-colour3) !important;
 }
