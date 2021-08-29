@@ -1,1 +1,11 @@
+.navbar {
+  background-color: var(--nav-colour) !important;
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 18px;
+}
 
+.navbar-brand,
+h3 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+}

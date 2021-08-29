@@ -1,4 +1,9 @@
 :root {
-  --nav-colour: ##f4f3ee;
+  --nav-colour: #f4f3ee;
   --background-colour: #e5e5e5;
+  --card1: #f4f3ee;
+  --card3: #ffffff;
+  --card6: #c32c72;
+  --border-colour: #707070;
+  --border-colour2: #c32c72;
 }
